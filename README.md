@@ -11,6 +11,9 @@ Goal: The goal is to prevent the ball from passing your paddle and reaching the 
 
 Scoring: The game keeps track of the score, displayed at the top of the screen. 
 
+![0927](https://github.com/user-attachments/assets/25ab55e8-6726-43ec-b4dd-afa9850c3c85)
+
+
 ## Game Mechanics
 
 Paddle Movement: The paddle on the left is contolled using the "w" key to move up and the "s" key to move down, while the right player uses the "UP arrow key" to move up and "down arrow key to move down". (Note that you might not be able to do a long press) 
